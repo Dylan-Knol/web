@@ -1,0 +1,20 @@
+body {
+  color: green;
+  font-family: Arial, sans-serif;
+}
+
+.speciaal {
+  font-weight: bold;
+  text-decoration: underline;
+}
+#uniek {
+  color: darkgreen;
+  font-style: italic;
+}
+.red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
