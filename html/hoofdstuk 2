@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Mijn Eerste Webpagina</title>
+  </head>
+  <body>
+    <h1>Welkom op mijn website!</h1>
+    <p>Dit is mijn allereerste HTML-pagina. Leuk dat je kijkt!</p>
+  </body>
+</html>
+
